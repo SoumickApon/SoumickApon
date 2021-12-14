@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumick</h1>
 <h3 align="center">A passionate SQA & Web Security Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumickapon&label=Profile%20views&color=0e75b6&style=flat" alt="soumickapon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumickapon" alt="soumickapon" /></a> </p>
 
 - 🔭 I’m currently working on **SQA & Penetration Testing**
 
@@ -14,6 +11,12 @@
 - 💬 Ask me about **SQA**
 
 - 📫 How to reach me **soumickapon62@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumickapon&label=Profile%20views&color=0e75b6&style=flat" alt="soumickapon" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumickapon" alt="soumickapon" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
