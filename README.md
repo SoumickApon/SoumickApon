@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumickapon&label=Profile%20views&color=0e75b6&style=flat" alt="soumickapon" /> </p>
 
 
-- 🔭 I’m currently working on **SQA & Penetration Testing**
+- 🔭 I’m currently working on **Python & Penetration Testing**
 
 - 🌱 I’m currently learning **Automation & Security Testing**
 
