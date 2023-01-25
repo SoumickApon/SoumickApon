@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soumick</h1>
-<h3 align="center">A passionate Developer,SQA & Web Security Learner</h3>
+<h3 align="center">A passionate Python & Web Security Learner</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumickapon&label=Profile%20views&color=0e75b6&style=flat" alt="soumickapon" /> </p>
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://soumickapon.github.io/Portfolio/](https://soumickapon.github.io/Portfolio/)
 
-- 💬 Ask me about **SQA**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **soumickapon62@gmail.com**
 
